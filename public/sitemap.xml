@@ -3,33 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/posts/test/</loc>
+    <loc>https://loujaybee.github.io/loujaybee/posts/test/</loc>
     <lastmod>2019-02-22T21:15:34+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/posts/why-i-am/</loc>
+    <loc>https://loujaybee.github.io/loujaybee/posts/why-i-am/</loc>
     <lastmod>2019-02-22T21:15:34+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://loujaybee.github.io/loujaybee/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://loujaybee.github.io/loujaybee/posts/</loc>
     <lastmod>2019-02-22T21:15:34+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://loujaybee.github.io/loujaybee/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://loujaybee.github.io/loujaybee/</loc>
     <lastmod>2019-02-22T21:15:34+00:00</lastmod>
     <priority>0</priority>
   </url>
