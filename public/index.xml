@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>loujaybee</title>
+    <link>http://example.org/</link>
+    <description>Recent content on loujaybee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Feb 2019 21:15:34 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test 2</title>
+      <link>http://example.org/posts/test/</link>
+      <pubDate>Fri, 22 Feb 2019 21:15:34 +0000</pubDate>
+      
+      <guid>http://example.org/posts/test/</guid>
+      <description>I&amp;rsquo;m starting a fresh, with the website that is. I fully &amp;ldquo;launched&amp;rdquo; originally my previous website back in 2016. And along the way made a series of mistakes, that eventually lead to the total loss of my motivation and desire to write. So I&amp;rsquo;m doing some things differently, and making a come back&amp;hellip; but this time, things are a little bit different!
+Originally, whe vision was quite simple, and somewhat humble: share what I was learning and thinking about in a simple, candid way.</description>
+    </item>
+    
+    <item>
+      <title>Why I&#39;m kicking off a new website</title>
+      <link>http://example.org/posts/why-i-am/</link>
+      <pubDate>Fri, 22 Feb 2019 21:15:34 +0000</pubDate>
+      
+      <guid>http://example.org/posts/why-i-am/</guid>
+      <description>I&amp;rsquo;m starting a fresh, with the website that is. I fully &amp;ldquo;launched&amp;rdquo; originally my previous website back in 2016. And along the way made a series of mistakes, that eventually lead to the total loss of my motivation and desire to write. So I&amp;rsquo;m doing some things differently, and making a come back&amp;hellip; but this time, things are a little bit different!
+Originally, whe vision was quite simple, and somewhat humble: share what I was learning and thinking about in a simple, candid way.</description>
+    </item>
+    
+  </channel>
+</rss>
