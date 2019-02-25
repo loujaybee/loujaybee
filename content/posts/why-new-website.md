@@ -2,7 +2,6 @@
 title: "Welcome to the new website!"
 date: 2019-02-22T21:15:34Z
 draft: false
-tags: ["Miscellaneous"]
 category: test
 ---
 
