@@ -12,7 +12,7 @@
 {{ range $index, $page := $paginator.Pages }}
 {{ if and $.IsHome (eq $paginator.PageNumber 1) (eq $index 0) }}
 {{ .Scratch.Set "postClass" "first-entry" }}
-{{ .Scratch.Set "firstEmoji" "<span class=\"welcome-emoji\">👉</span>" }}
+{{ .Scratch.Set "firstEmoji" "<span class=\"welcome-emoji\"></span>" }}
 {{ else }}
 {{ .Scratch.Set "postClass" "post-entry" }}
 {{ end }}
