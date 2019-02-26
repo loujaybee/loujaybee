@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on ✌️loujaybee</title>
-    <link>http://louisjohnbichard.co.uk/categories/</link>
+    <link>https://louisjohnbichard.co.uk/categories/</link>
     <description>Recent content in Categories on ✌️loujaybee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://louisjohnbichard.co.uk/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://louisjohnbichard.co.uk/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
