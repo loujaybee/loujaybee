@@ -5,7 +5,7 @@ draft: false
 category: test
 ---
 
-<img src="/loujaybee/img/cheltenham.JPG" />
+<img src="/img/cheltenham.JPG" />
 
 Last year when I put out content around the new year about my plans I got a spike in traffic. I guess something about the personal nature of the post was attractive. Based on how much people seemed to like those posts, I thought I'd do another. A round up of 2018 — and a goal set for 2019. Looking back at my goals for 2018, it seems apparent that I went into the year with a better head space than I came out of it. My big goal was to do things with more clarity and purpose, but somewhere along the way I started taking on extra projects and work that I shouldn't have. I definitely think that was related to not taking enough time away to think things through and spending time with my nose far too close to the grindstone.
 

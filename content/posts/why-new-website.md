@@ -5,7 +5,7 @@ draft: false
 tags: ["year_review"]
 ---
 
-<img src="/loujaybee/img/foamysea.JPG" />
+<img src="/img/foamysea.JPG" />
 
 I'm starting a fresh, with the website that is. I fully "launched" originally my previous website back in 2016. And along the way made a series of mistakes, that eventually lead to the total loss of my motivation and desire to write. So I'm doing some things differently, and making a come back... but this time, things are a little bit different! 
 
