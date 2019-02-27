@@ -7,7 +7,7 @@ category: test
 
 <img src="/loujaybee/img/cheltenham.JPG" />
 
-Last year when I put out content around the new year about [my plans](https://www.thedevcoach.co.uk/one-thing-ill-focusing-2018/) I got a spike in traffic. I guess something about the personal nature of the post was attractive. Based on how much people seemed to like those posts, I thought I'd do another. A round up of 2018 — and a goal set for 2019. ![](https://www.thedevcoach.co.uk/wp-content/uploads/2018/12/Screenshot-2018-12-28-at-17.29.51.png)    Looking back at my goals for 2018, it seems apparent that I went into the year with a better head space than I came out of it. My big goal was to do things with more clarity and purpose, but somewhere along the way I started taking on extra projects and work that I shouldn't have. I definitely think that was related to not taking enough time away to think things through and spending time with my nose far too close to the grindstone.
+Last year when I put out content around the new year about my plans I got a spike in traffic. I guess something about the personal nature of the post was attractive. Based on how much people seemed to like those posts, I thought I'd do another. A round up of 2018 — and a goal set for 2019. Looking back at my goals for 2018, it seems apparent that I went into the year with a better head space than I came out of it. My big goal was to do things with more clarity and purpose, but somewhere along the way I started taking on extra projects and work that I shouldn't have. I definitely think that was related to not taking enough time away to think things through and spending time with my nose far too close to the grindstone.
 
 2018, The Year Of: Writing
 --------------------------
@@ -27,11 +27,11 @@ The other part of my year was building out both Splitoo, and Hacktopia. So I wan
 
 ### Splitoo
 
-![](https://www.thedevcoach.co.uk/wp-content/uploads/2018/09/Screen-Shot-2018-09-29-at-15.35.58.png) For Splitoo, early in the year (around February) we went officially live with [Splitoo](http://splitoo.com) in the UK. Putting Splitoo live was an _amazing_ feeling. Watching the payment transactions flowing through with real money was one hand frightening but on the other super exciting. It feels good to have _finished_ something. Whilst it's not done, it's out there, functioning and delivering value, and that's a huge milestone. For Splitoo, we've had meetings with investors, and started exploring that as an avenue for growth — but at this stage we're not sure what's right for us. So in the mean time, we'll keep building it out ourselves and see where we can take it.
+For Splitoo, early in the year (around February) we went officially live with [Splitoo](http://splitoo.com) in the UK. Putting Splitoo live was an _amazing_ feeling. Watching the payment transactions flowing through with real money was one hand frightening but on the other super exciting. It feels good to have _finished_ something. Whilst it's not done, it's out there, functioning and delivering value, and that's a huge milestone. For Splitoo, we've had meetings with investors, and started exploring that as an avenue for growth — but at this stage we're not sure what's right for us. So in the mean time, we'll keep building it out ourselves and see where we can take it.
 
 ### Hacktopia
 
-![](https://www.thedevcoach.co.uk/wp-content/uploads/2018/09/Screen-Shot-2018-09-29-at-15.35.35.png) Hacktopia this year we wanted to get up and running with the production app. A big blocker was getting out the website, that really showcased the USP and what we were trying to communicate with the product. That took up most of the time in the year. We saw some high profile clients come and go because we simply couldn't keep up the contact and feedback speed required to keep them interested and keen. In the new year we'll look to take on someone part-time to run the development and support and have a go tackling the support issue that way.
+Hacktopia this year we wanted to get up and running with the production app. A big blocker was getting out the website, that really showcased the USP and what we were trying to communicate with the product. That took up most of the time in the year. We saw some high profile clients come and go because we simply couldn't keep up the contact and feedback speed required to keep them interested and keen. In the new year we'll look to take on someone part-time to run the development and support and have a go tackling the support issue that way.
 
 So, what about 2019?
 --------------------
