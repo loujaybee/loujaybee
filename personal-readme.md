@@ -37,4 +37,4 @@
 
 * I love feedback, I'm yet to meet someone who gave me "too much" feedback, so you should probably bias to more feedback than less!
 * Feedback in person is best, so I can ask questions.
-* A write-up does will help me to remember your points, but it's not mandatory for me.
+* A write-up does help me to remember your points, but it's not mandatory for me.
