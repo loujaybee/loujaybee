@@ -15,7 +15,7 @@
 
 ## How To Work With Me
 
-* In meetings/discussions I really appreciate context, e.g. why are we meeting? What is the end goal? This helps me adapt my own input/style.
+* In discussions I appreciate context, e.g. why are we meeting? What is the goal? This helps me adapt my input.
 * I like to give freedom, rather than too much specifics, so if you need more detail, or I'm too high-level, please ask me to clarify.
 * I prefer high-trust environments, over rigid processes. Failure should be a possibility, but not a "problem".
 * I can come across very stoic to some, if you're unsure where I stand on something (happy/upset), feel free to ask.
