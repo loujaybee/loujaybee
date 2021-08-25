@@ -7,7 +7,7 @@
 * People often think I am in love with processes, but I just see the use of processes (it's actually a bonus if I don't have to set them up)!
 * I try to be as flexible with what I work on as I can, so I'm happy to pick up lots of different types of tasks. 
 
-## What I'm Not Good At
+## What I'm Not Good At
 
 * It's important for me to give people the space to talk and think, so I struggle in faster-paced conversations where interrupting is normal/expected.
 * Thinking on my feet, I like to reflect and think a lot, giving me time to prepare for a conversation often helps. 
