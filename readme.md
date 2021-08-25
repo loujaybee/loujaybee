@@ -1,7 +1,5 @@
 
-Hello I'm Lou 🚀
-
-I'm a Software Engineer, living in London. 
+Hello I'm Lou 🚀, a Software Engineer, living in London. 
 
 These days I'm working heavily on [Open Up The Cloud](https://openupthecloud.com/) which helps people get their start and grow their careers in cloud. 
 
